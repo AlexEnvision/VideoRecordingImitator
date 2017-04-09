@@ -1,0 +1,36 @@
+\\Vboxsvr\мои_программы\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\MainWindow.baml
+\\Vboxsvr\мои_программы\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\MainWindow.g.cs
+\\Vboxsvr\мои_программы\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\App.g.cs
+\\Vboxsvr\мои_программы\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingImitator.Properties.Resources.resources
+\\Vboxsvr\мои_программы\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingImitator.csproj.GenerateResource.Cache
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\MainWindow.baml
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\MainWindow.g.cs
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\App.g.cs
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingImitator.Properties.Resources.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingImitator.csproj.GenerateResource.Cache
+\\Vboxsvr\мои_программы\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\bin\Debug\VideoRecordingEmulator.exe
+\\Vboxsvr\мои_программы\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\bin\Debug\VideoRecordingEmulator.pdb
+\\Vboxsvr\мои_программы\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingEmulator_MarkupCompile.cache
+\\Vboxsvr\мои_программы\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingEmulator.g.resources
+\\Vboxsvr\мои_программы\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingEmulator.exe
+\\Vboxsvr\мои_программы\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingEmulator.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingEmulator.exe
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingEmulator.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\bin\Debug\VideoRecordingEmulator.exe
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\bin\Debug\VideoRecordingEmulator.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingEmulator_MarkupCompile.cache
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingEmulator.g.resources
+M:\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingEmulator.exe
+M:\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingEmulator.pdb
+H:\ПРОЕКТЫ\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingEmulator.exe
+H:\ПРОЕКТЫ\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingEmulator.pdb
+H:\ПРОЕКТЫ\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\bin\Debug\VideoRecordingEmulator.exe
+H:\ПРОЕКТЫ\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\bin\Debug\VideoRecordingEmulator.pdb
+H:\ПРОЕКТЫ\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\MainWindow.baml
+H:\ПРОЕКТЫ\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\MainWindow.g.cs
+H:\ПРОЕКТЫ\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\App.g.cs
+H:\ПРОЕКТЫ\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingEmulator_MarkupCompile.cache
+H:\ПРОЕКТЫ\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingEmulator.g.resources
+H:\ПРОЕКТЫ\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingImitator.Properties.Resources.resources
+H:\ПРОЕКТЫ\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingImitator.csproj.GenerateResource.Cache
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Эмулятор видеозаписи\VideoRecordingImitator\VideoRecordingImitator\obj\x86\Debug\VideoRecordingImitator.csprojResolveAssemblyReference.cache
